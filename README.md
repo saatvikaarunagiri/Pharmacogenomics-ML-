@@ -13,22 +13,13 @@ These instructions will get you a copy of the project up and running on your loc
 * 8GB RAM minimum
 * Command line access
 
-### Installation
-
-Step-by-step guide to set up the development environment:
-
-```
-$ git clone <repository-url>
-$ cd cyp2c19-ml-pipeline
-$ pip install -r requirements.txt
-```
 
 ## Usage
 
 Run the complete machine learning pipeline:
 
 ```
-$ python cyp2c19_ml_pipeline.py
+$ python pipeline.py
 ```
 
 The pipeline will:
